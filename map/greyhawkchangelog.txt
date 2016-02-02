@@ -1,0 +1,48 @@
+0.9
+
+This version of Greyhawk is deprecated. Please download the new GREYHAWK WARS game, a massive expansion of the original idea: http://tinyurl.com/ghwars
+
+
+0.7 Greyhawk
+
+To improve the variety of units it is practical to use, unit IPC costs were reduced:
+	light infantry: remains 3
+	light cavalry: remains 3
+	medium infantry: from 5 to 4
+	medium cavalry: from 5 to 4
+	heavy infantry: from 7 to 5
+	heavy cavalry: from 7 to 5
+	goblin: from 4 to 3
+	halfling: from 4 to 3
+	hobgoblin: from 8 to 6
+	dwarf: from 8 to 6
+	orc: from 10 to 7
+	elf: from 10 to 7
+	troll: from 14 to 9
+	treant: from 14 to 8
+	giant: from 16 to 10
+	dragon: from 20 to 12
+	bowman: from 5 to 4
+	fortification: from 15 to 12
+	ship: from 12 to 10
+	small ship: from 8 to 6
+
+To make player nations more unique production frontiers have been changed.  Before the only difference was that evil nations produced goblins, orcs, etc., and good nations elves, dwarves, etc.  Now there are differences even among allies.  This has necessitated some slight adjustments in the starting units for some players.
+
+Other unit changes include increasing Dragon movement to 8, changing giants so they take two hits, and reducing the attack value of goblins to 2 to prevent overbalance.
+	
+	
+
+
+0.6.5 Greyhawk
+
+To fix the weird "sea zone" problem of not being able to select certain island territories the following were renamed:
+	Olman North becomes Olman Middle
+	Olman Islands North becomes Middle Olman Islands
+	Ekul becomes Port Ekul
+	Lordship of the Isles becomes The Lordship Isles
+	Sulward becomes Duxchan
+	Lordship East becomes Lordship Isles East
+	Duxchan becomes Sulward City
+	Spindrift Isles becomes Lendore Isles
+
