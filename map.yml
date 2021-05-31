@@ -1,0 +1,3 @@
+map_name: greyhawk
+games:
+- {game_name: Greyhawk, file_name: greyhawk.xml}
